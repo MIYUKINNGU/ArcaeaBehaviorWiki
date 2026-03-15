@@ -1,0 +1,44 @@
+.markdown-body {
+    font-family: Open Sans,Yu Gothic Medium,Yu Gothic,Noto Sans JP,sans-serif;
+}
+
+.markdown-body > div {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+    box-sizing: border-box;
+}
+
+.header {
+    padding:0.5em;
+    background-color:#842c8b;
+    color:#eee;
+    font-weight:600;
+    display:flex;
+}
+
+.header-item {
+    margin-left: 0.5em;
+    margin-right:0.5em;
+}
+
+.header-item > a {
+    color: inherit;
+}
+
+footer {
+    height: 30vh;
+}
+
+.language-mermaid {
+    background-color: #fff !important;
+}
+
+pre {
+    background-color: #1e1e1e !important;
+}
+
+pre code {
+    color: #eee;
+}
