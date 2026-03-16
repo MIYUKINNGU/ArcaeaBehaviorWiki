@@ -5,7 +5,7 @@
 - [記事の書き方フォーマット/ルール](/ArcaeaBehaviorWiki/contents/?id=forwriters/articleformat)
 - [Markdownエディタ](/ArcaeaBehaviorWiki/editor/)
 ## Arcaeaの仕様あれこれ
-- Arcaeaの判定について
+- [Arcaeaの判定について](/ArcaeaBehaviorWiki/contents/?id=ArcaeaJudgementBehavior)
 
 ## Arcaeaの譜面あれこれ
 無し
