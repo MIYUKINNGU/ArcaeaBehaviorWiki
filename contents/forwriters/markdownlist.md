@@ -41,7 +41,7 @@ __UNDERLINE__
 ```markdown
 ![画像タイトル](画像へのリンク)
 ```
-※このサイトのデータ等のアップロードはすべて`/ArcaeaBehaviorWiki/contents/記事名/assets/`下に配置されます。
+※このサイトのデータ等のアップロードはすべて`/ArcaeaBehaviorWiki/contents/記事ID/assets/`下に配置されます。
 ## コードスパン
 ```markdown
 `code`
