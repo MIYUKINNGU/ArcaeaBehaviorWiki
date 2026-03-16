@@ -29,9 +29,9 @@
 ソースコードはすべてGitHubにて公開しています！
 またissueやPRを送ってくれれば多分確認します。(いるのかな？)
 (念のためにTwitterやDiscordのDMで連絡してくれると助かります...ほとんど確認しないので...)
+[GitHubリポジトリ](https://github.com/MIYUKINNGU/ArcaeaBehaviorWiki)
 
 ## もしもここの情報がきっかけでトラブルがあったら？
 ここの情報が不確かだということがきっかけならGitHubのコミット履歴を確認してみると良いと思います。
 それ以外では、基本的にトラブル起こさないで...
 というか、トラブルを解決するための手段としてコミット履歴の確認を提案はするけど責任は負わないから、ね...
-[GitHubリポジトリ](https://github.com/MIYUKINNGU/ArcaeaBehaviorWiki)

@@ -16,3 +16,16 @@
     width: 100%;
     height: 100%;
 }
+
+@media screen and (max-aspect-ratio: 1) {
+	.maineditor {
+        flex-direction: column;
+        height: calc(100vh - 10em) !important;
+    }
+
+    .maineditor *{
+        margin: 0.25em 0;
+        width: calc(100vw - 2em - 32px);
+        height: calc(50vh - 5em);
+    }
+}

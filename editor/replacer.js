@@ -16,7 +16,12 @@ window.setInterval(() => {
 
 document.getElementById('download').addEventListener('click', () => {
     const output = document.getElementById('editor').value;
-    downloadAsFile(output, "download.md");
+    const filename = document.getElementById("fileName").value;
+    if (filename) {
+        downloadAsFile(output, filename+".md");
+    } else {
+        downloadAsFile(output, "download.md");
+    }
 });
 
 function downloadAsFile(text, filename) {
