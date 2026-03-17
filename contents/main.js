@@ -35,4 +35,7 @@ async function parseContent(filename) {
     hljs.highlightAll();
     mermaid.initialize({ securityLevel: 'loose', theme: 'neutral' });
     mermaid.init(undefined, document.getElementsByClassName('language-mermaid'));
+
+    const title = document.querySelector("h1").innerText;
+    document.title = `${title} - Arcaeaの細かいあれこれWiki`;
 }
