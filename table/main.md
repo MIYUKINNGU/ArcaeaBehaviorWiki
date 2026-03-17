@@ -8,4 +8,4 @@
 - [Arcaeaの判定について](/ArcaeaBehaviorWiki/contents/?id=ArcaeaJudgementBehavior)
 
 ## Arcaeaの譜面あれこれ
-- [Tempestissimoのクロスするあのアーク](/ArcaeaBehaviorWiki/contents/?id=temparcway1)
+- [Tempestissimoのクロスするあのアーク](/ArcaeaBehaviorWiki/contents/?id=tempearcway1)

@@ -9,7 +9,7 @@
 ## あのアークって？
 
 
-![あのアーク](temparcway1/assets/IMG_7855.png)
+![あのアーク](tempearcway1/assets/IMG_7855.png)
 
 
 これです。多分全部で3回登場します。私は毎回この3つのうちのどれかに殺されています。私だけ？
@@ -20,9 +20,9 @@
 自分で動画を取ってみたところ、抜けるポイントはおそらくここです。
 
 
-![1](temparcway1/assets/IMG_7856.png)
-![2](temparcway1/assets/IMG_7857.png)
-![3](temparcway1/assets/IMG_7858.png)
+![1](tempearcway1/assets/IMG_7856.png)
+![2](tempearcway1/assets/IMG_7857.png)
+![3](tempearcway1/assets/IMG_7858.png)
 
 
 ここ。
